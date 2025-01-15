@@ -63,7 +63,7 @@ int main() {
                 printf("Au revoir !\n");
                 break;
             default:
-                printf("Choix invalide. Réessayez.\n");
+                printf(":n");
         }
     } while (choix != 3);
 
